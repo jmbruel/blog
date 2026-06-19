@@ -1,0 +1,73 @@
+name: Build and Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Asciidoctor
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y asciidoctor
+
+      - name: Build HTML
+        run: |
+          mkdir -p _site/vrac2026
+          # Copy all media assets
+          cp vrac2026/*.jpeg vrac2026/*.png vrac2026/*.mp4 _site/vrac2026/ 2>/dev/null || true
+          # Convert adoc to HTML with embedded styling
+          asciidoctor \
+            --destination-dir _site/vrac2026 \
+            --attribute icons=font \
+            --attribute toc=left \
+            --attribute toclevels=3 \
+            --attribute numbered \
+            --attribute source-highlighter=highlight.js \
+            vrac2026/retex-tarbesou2026.adoc
+          # Create a minimal index at root that redirects to the article
+          cat > _site/index.html <<'EOF'
+          <!DOCTYPE html>
+          <html>
+            <head>
+              <meta charset="utf-8">
+              <meta http-equiv="refresh" content="0; url=vrac2026/retex-tarbesou2026.html">
+              <title>Blog JMB</title>
+            </head>
+            <body>
+              <p><a href="vrac2026/retex-tarbesou2026.html">Aller à l'article</a></p>
+            </body>
+          </html>
+          EOF
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
