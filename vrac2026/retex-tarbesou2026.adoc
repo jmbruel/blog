@@ -69,7 +69,7 @@ Nous jouons une quinzaine de minutes en soaring côté NO.
 .Le Tarbésou en dynamique
 video::soaring.mp4[{half-width}, "Soaring côté NO"]
 
-Comme nous en avions convenus ensemble, si l'un de nous ne le sentait pas on avait décidé d'aller atterrir tranquillement au col de Pailhère, qui est un grand plat qui, même pour un col (c'est-à-dire avec du Venturi) ne posait pas de problème avec ce vent météo faible (<15km/h).
+Comme nous en avions convenus ensemble, si l'un de nous ne le sentait pas on avait décidé d'aller atterrir tranquillement au col de Pailhères, qui est un grand plat qui, même pour un col (c'est-à-dire avec du venturi) ne posait pas de problème avec ce vent météo faible (<15km/h).
 
 .Vol en dynamique côté NO
 image::soaring.jpeg[{half-width}, "Soaring côté NO"]
@@ -111,11 +111,12 @@ image::helico.jpeg[{half-width}, "Evacuation en hélicoptère"]
 
 === Les soins
 
-La, on me fait rapidement des examens type échographie et on m'annonce un scanner pour 17h (car un scanner se fait quatre heures après un choc, car s'il est fait trop tôt, il peut passer à côté d'hémorragies ou de phénomènes plus graves).
+Là, on me fait rapidement des examens type échographie et on m'annonce un scanner pour 17h (car un scanner se fait quatre heures après un choc, car s'il est fait trop tôt, il peut passer à côté d'hémorragies ou de phénomènes plus graves).
 
 
-Le scanner complet, du tronc et du crâne révèle que tout est normal, sauf ma T12 qui s'est tassée apparemment au moment de l'impact. 
-Je dois donc rester immobilisé jusqu'à la fabrication sur mesure d'un corset qui me permettra de me lever. Corset dans les mesures seront emprise le lundi, qui me sera livré le mardi pour un retour à domicile en ambulance le mardi soir.
+Le scanner complet, du tronc et du crâne révèle que tout est normal, sauf ma vertèbre TH12 qui s'est tassée apparemment au moment de l'impact. 
+Je dois donc rester immobilisé allongé sur le dos jusqu'à la fabrication sur mesure d'un corset qui me permettra de me lever. 
+Corset dont les mesures seront prises le lundi, qui me sera livré le mardi pour un retour à domicile en ambulance le mardi soir.
 
 .Prêt à enfin quitter les urgences
 image::corset.png[{half-width}, "Prêt à enfin quitter les urgences"]
@@ -127,16 +128,17 @@ Très belle efficacité et gentillesse du personnel du CHIVAS (bon, même s'ils 
 === Ce qui a dû se passer
 
 Vu comment je suis courbatu au niveau des cervicales, et vu les marques sur mon visage, on en déduit que je suis tombé la tête la première.
-D'où les marques au visage, le mal au cou et le tassement des vertèbres qui est plus important qu'il ne l'aurait été très certainement avec le moussebag de ma selette toute neuve. 
+D'où les marques au visage, le mal au cou et le tassement des vertèbres qui est plus important qu'il ne l'aurait été si j'étais tombé sur les fesses 
+(avec le moussebag de ma selette quasi neuve). 
 
-Fred m'a vu monter en l'air à 3 ou 4m et retomber. 
+Freddy m'a vu monter en l'air à 3 ou 4m et retomber. 
 Il s'agit donc soit d'un dust soit d'un très fort coup de vent. 
 J'ai dû commettre l'erreur par réflexe d'appuyer sur les suspentes de frein pour me retenir et très certainement décrocher.
 
 === Ce que nous aurions dû éviter
 
 Avec du recul, cette grande étendue plate, en plein soleil, avec un parking à proximité et la route du col, est très certainement très propice aux déclenchements de thermiques a minima. 
-Nous n'aurions dû donc pas dû nous y amuser à cette heure-là.
+Nous n'aurions donc pas dû nous y amuser à cette heure-là.
 
 Bien sûr, ma principale erreur, même si elle n'aurait pas épargné ma vertèbre, a été d'enlever mon casque qui m'aurait très certainement protégé au moins du trauma crânien qui a, non seulement inquiété tout le monde, mais m'a empêché de me souvenir de ce qui s'est passé.
 
