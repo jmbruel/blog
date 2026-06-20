@@ -1,4 +1,4 @@
-= Le gonflage, c'est dangereux !
+= Prudence au gonflage !
 Jean-Michel Bruel <jbruel@gmail.com>
 v2026-06-19: 
 :numbered:
