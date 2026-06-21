@@ -1,6 +1,7 @@
 = Prudence au gonflage !
 Jean-Michel Bruel <jbruel@gmail.com>
-v2026-06-19: 
+//v2026-06-19: Draft initial
+v2026-06-21: Témoignage de Freddy ajouté
 :numbered:
 :toc: auto
 :icons: font
@@ -141,6 +142,45 @@ Avec du recul, cette grande étendue plate, en plein soleil, avec un parking à 
 Nous n'aurions donc pas dû nous y amuser à cette heure-là.
 
 Bien sûr, ma principale erreur, même si elle n'aurait pas épargné ma vertèbre, a été d'enlever mon casque qui m'aurait très certainement protégé au moins du trauma crânien qui a, non seulement inquiété tout le monde, mais m'a empêché de me souvenir de ce qui s'est passé.
+
+=== L'accident vu de l'extérieur
+
+NOTE: Partie ajoutée par mailto:zebigfly@gmail.com[Freddy]. Merci à lui.
+
+Pour ne mentionner que la séance de gonflage : le vent était assez stable et modéré, je dirais 15-20km/h orienté Nord / Nord Ouest, 
+dans ce qui paraissait être une conjonction du vent météo Nord/Nord-Ouest et de la brise de vallée venant de l'Ouest. 
+Nous étions tous deux face voile, de dos au Nord / Nord-Ouest ; Jean-Mi était à environ 20m à ma droite, 
+et il avait encore une 50aine de mètres à sa droite avant la route du col. 
+Nous avons gonflé environ 15 à 20 minutes avant l'accident ; on pouvait garder la voile sur la tête sans effort, de temps en temps un 
+affaiblissement nous forçait à affaler, ou une rafale plus forte nous forçait à "piloter" pour la garder au dessus de la tête. 
+
+Au moment de l'accident, lors d'une rafale, je vois Jean-Mi à environ 3-4 mètres du sol, toujours face voile. 
+À cet instant, même en l'air il est en contrôle, la situation n'est pas spécialement violente ; je n'ai pas vu le décollage lui-même, 
+il est possible qu'il l'ait déclenché volontairement par un appui de freins. 
+Au même moment j'avais également ma voile au dessus de la tête, j'ai détourné le regard un instant pour la garder en place dans cette rafale, 
+mais je n'ai pas senti que je risquais d'être arraché. 
+Quand j'ai retourné mon regard vers Jean-Mi il était allongé par terre face au sol, sellette au dessus, avec sa voile affalée qui 
+l'avait légèrement tiré vers la droite. 
+Entre le moment où il a décollé et celui où il a atterri, il avait avancé face au vent d'une dizaine de mètres (donc vu du pilote : 
+une marche arrière), ce qui reste cohérent avec un vent modéré même si ça n'exclue pas un dust ou autre déclenchement de thermique.
+
+Ma meilleure  hypothèse serait qu'il s'est retourné en vol pour se mettre dans une situation de vol normale, au moment où sa voile le 
+ramenait au sol ; la conjonction de la vitesse de vol et de la vitesse de rotation pouvant peut-être expliquer la violence du choc qui 
+lui a fait perdre connaissance.
+
+Quand je suis arrivé sur Jean-Mi il était inconscient, son visage avait perdu toute tonicité : impressionnant ! 
+Il est revenu à lui comme je lui parlais, s'est mis à râler car il avait du mal à respirer. 
+Bien entendu je ne l'ai pas bougé, je lui parlais pour savoir si sa colonne vertébrale était touchée mais il ne me comprenait pas. 
+J'ai appelé le 112 (merci la bonne qualité de signal au niveau du col !), mon premier interlocuteur m'a mis en relation avec le SAMU. 
+Une docteur très efficace m'a guidé pas à pas pour diagnostiquer le blessé et mener un protocole commotion en bonne et due forme. 
+Elle lui a également parlé et quand j'ai récupéré le téléphone elle m'a confirmé qu'il était incohérent, qu'il avait besoin de diagnostic rapide et qu'il fallait l'immobiliser s'il devenait agité (sic, le poulet en question fait plus de 90kg, et surtout du muscle !). 
+La recommandation du SAMU était de ne rien lui donner à boire ni à manger. 
+Heureusement son état s'est progressivement arrangé, il a commencé à retrouver la mémoire et est toujours resté calme. 
+Avec des passants fort serviables, on est resté près de lui, on l'a dé-harnaché en le bougeant le moins possible, et on l'a écouté nous répéter 32 fois "ah bon j'ai perdu connaissance ? 
+Je ne m'en souviens pas". 
+
+Aparté sur les secours (pompiers) : des gens exceptionnels, professionnels, compétents, bienveillants et sympathiques. 
+Dommage de les croiser dans ces situations tendues plutôt qu'autour d'un barbecue et d'une bière.
 
 === À retenir pour l'avenir
 
