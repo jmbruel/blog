@@ -1,7 +1,8 @@
 = Prudence au gonflage !
 Jean-Michel Bruel <jbruel@gmail.com>
 //v2026-06-19: Draft initial
-v2026-06-21: Témoignage de Freddy ajouté
+//v2026-06-21: Témoignage de Freddy ajouté
+v2026-06-23: Témoignage de Freddy ajouté et retours d'AS
 :numbered:
 :toc: auto
 :icons: font
@@ -31,6 +32,11 @@ endif::[]
 
 == Le contexte
 
+Le col de Pailhères (2000m) est un col classique en vélo, lieu de départ d'une randonnée facile vers le Tarbésou, un sommet qui culmine à 2364m et qui domine la vallée d'Ax.
+
+.Le col de Pailhères
+image::localisation.png[{half-width}, "Le col de Pailhères, 2001m"]
+
 === Le Tarbésou
 
 Nous sommes partis, ce dimanche 14 juin, avec Freddy pour faire un marche & vol au Tarbésou (2364m) avec l'objectif d'y décoller.
@@ -54,7 +60,7 @@ Nous avions convenu de rester dans le dynamique du nord-ouest en évitant de nou
 
 Bref, après quelques hésitations au décollage à cause des turbulences, nous trouvons une façon efficace de décoller : entre deux cycles pour Freddy, et en descendant un peu plus bas pour moi (cf. vidéo ci-dessous, prise par nos chéries).
 
-.Turbulences au décollage
+.Turbulences au décollage (N.B. : la voile s'est retournée juste avant le début de la vidéo)
 video::turbulences.mp4[{half-width}, "Turbulences au décollage"]
 
 .Décollage Freddy
@@ -77,7 +83,8 @@ image::soaring.jpeg[{half-width}, "Soaring côté NO"]
 
 WARNING: Premier signe qui aurait dû nous alerter : j'arrive à peine à descendre pour atterrir. 
 
-Je révise même les oreilles pour arriver à descendre. 
+Je révise même les oreilles pour arriver à descendre.
+Beaucoup de thermiques (il est facile de trouver aussi des zones des descentes). 
 Je pose néanmoins sans aucun problème pour rejoindre Freddy qui m'avait indiqué, par son atterrissage, l'orientation du vent.
 
 WARNING: Deuxième signe qui aurait dû nous alerter : le vent est complètement Nord, c'est à dire d'aucune des 2 vallées qui montent au col, mais bien dans l'axe Nord-Sud de la crête qui monte au Tarbesou ?!
@@ -87,7 +94,7 @@ WARNING: Deuxième signe qui aurait dû nous alerter : le vent est complètement
 Ayant largement le temps d'attendre les filles, nous commençons à faire du gonflage tranquillement. 
 Le vent est faible, toujours orienté Nord c'est-à-dire ni de la vallée d'Ax qui vient plutôt de l'Ouest, ni de la vallée de Mijanès qui vient plutôt du SE.
 
-WARNING: Troisième signe qui aurait dû nous alerter : il fait très chaud (on est vers midi).
+WARNING: Troisième signe qui aurait dû nous alerter : il fait très chaud (on est vers midi) sur une zone qui subit des vents de toutes les orientations, donc très propices aux rafales turbulentes à mon avis.
 
 Au point que je commets l'erreur d'enlever et mes gants, et ma veste, et d'**enlever mon casque** !!
 Le vent est tellement faible qu'on cherche le venturi pour arriver à soulever nos voiles au-dessus de nos têtes. 
@@ -105,7 +112,7 @@ Je demande à être relevé, car je pense que tout va bien, un peu comme après 
 Bien sûr, Freddy m'interdit de bouger. 
 Les gens sont très gentils, me font de l'ombre et les pompiers arrivent très vite d'Ax. 
 Il me prennent en charge rapidement, me font les premiers checks, me mettent sur coquille et m'annoncent qu'un hélicoptère étant dans les parages, je vais pouvoir en bénéficier. 
-C'est top parce que j'ai évité tous les virages de la descente et je suis arrivé très vite aux urgences du CHIVAS, (l'hôpital de Foix).
+//C'est top parce que j'ai évité tous les virages de la descente et je suis arrivé très vite aux urgences du CHIVAS, (l'hôpital de Foix).
 
 .Evacuation en hélicoptère (trace capturée par XCTrack!!)
 image::helico.jpeg[{half-width}, "Evacuation en hélicoptère"]
@@ -147,7 +154,7 @@ Bien sûr, ma principale erreur, même si elle n'aurait pas épargné ma vertèb
 
 NOTE: Partie ajoutée par mailto:zebigfly@gmail.com[Freddy]. Merci à lui.
 
-Pour ne mentionner que la séance de gonflage : le vent était assez stable et modéré, je dirais 15-20km/h orienté Nord / Nord Ouest, 
+Pour ne mentionner que la séance de gonflage : le vent était assez stable (c'est à dire homogène en vitesse et en direction ) et modéré, je dirais 15-20km/h orienté Nord / Nord Ouest, 
 dans ce qui paraissait être une conjonction du vent météo Nord/Nord-Ouest et de la brise de vallée venant de l'Ouest. 
 Nous étions tous deux face voile, de dos au Nord / Nord-Ouest ; Jean-Mi était à environ 20m à ma droite, 
 et il avait encore une 50aine de mètres à sa droite avant la route du col. 
@@ -186,7 +193,8 @@ Dommage de les croiser dans ces situations tendues plutôt qu'autour d'un barbec
 
 Pour moi, les leçons à retenir de cet épisode sont :
 
-- **Toujours garder son casque**, même si on a chaud, et même si le gonflage paraît facile.
+- **Toujours garder son casque et ses gants**, même si on a chaud, et même si le gonflage paraît facile.
+
 - Attention quand on fait du **gonflage aux heures chaudes**.
 - Attention quand on fait du **gonflage sur un col** avec des vents qui peuvent être contraires.
 
