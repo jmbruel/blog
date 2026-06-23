@@ -4,7 +4,7 @@ Jean-Michel Bruel <jbruel@gmail.com>
 //v2026-06-21: Témoignage de Freddy ajouté
 v2026-06-23: Témoignage de Freddy ajouté et retours d'AS
 :numbered:
-:toc: auto
+:toc: left
 :icons: font
 :twoinches: width=144
 // using a role requires adding a corresponding rule to the CSS
