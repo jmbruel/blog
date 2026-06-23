@@ -71,7 +71,7 @@ video::decoJMB.mp4[{half-width}, "Décollage de moi"]
 
 === Le vol
 
-Nous jouons une quinzaine de minutes en soaring côté NO.
+Nous jouons une quinzaine de minutes en soaring côté NO (trace disponible https://www.xcontest.org/world/en/flights/detail:JMB/14.6.2026/09:41[ici]).
 
 .Le Tarbésou en dynamique
 video::soaring.mp4[{half-width}, "Soaring côté NO"]
