@@ -2,7 +2,8 @@
 Jean-Michel Bruel <jbruel@gmail.com>
 //v2026-06-19: Draft initial
 //v2026-06-21: Témoignage de Freddy ajouté
-v2026-06-23: Témoignage de Freddy ajouté et retours d'AS
+// v2026-06-23: Témoignage de Freddy ajouté et retours d'AS
+v2026-07-03: Tout va bien !
 :numbered:
 :toc: left
 :icons: font
@@ -28,6 +29,7 @@ ifdef::backend-docbook5[]
 :half-size: scale=50
 :thumbnail: scaledwidth=20mm
 endif::[]
+
 
 
 == Le contexte
@@ -207,3 +209,5 @@ Merci aussi à tous ceux qui m'ont envoyé des messages de soutien et qui m'ont 
 
 Et merci à vous de m'avoir lu. Désolé pour la longueur.
 Je suis preneur d'avis et d'opinions sur ce Retex, afin qu'il se serve à un maximum de monde pour éviter si possible que cette mésaventure arrive à d'autres.
+
+WARNING: MAJ de début juillet : plus de peur que de mal, la vertèbre était déjà écrasée avant le vrac, donc plus besoin du corset. Mais tous les commentaires et conseils restent valables bien sûr 😅 !
