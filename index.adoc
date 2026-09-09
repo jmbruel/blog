@@ -1,0 +1,14 @@
+= Retex du Blog
+Jean-Michel Bruel <jbruel@gmail.com>
+:toc: left
+:icons: font
+
+Index des retex (retours d'expérience) de parapente.
+
+== 2026
+
+* link:vrac2026/retex-tarbesou2026.html[Prudence au gonflage !] - Incidents lors d'une séance de gonflage au col de Pailhères
+
+== 2024
+
+* link:aqua2024/retex-serreponcon2024.html[Plouf à l'atterro de Saint-Vincent-Les-Forts] - Atterrissage dans le lac de Serre Ponçon
