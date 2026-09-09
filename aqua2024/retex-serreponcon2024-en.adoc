@@ -1,0 +1,82 @@
+= Splash at the Saint-Vincent-Les-Forts landing
+Jean-Michel Bruel <jbruel@gmail.com>
+//v2024-09-16: Draft initial
+:numbered:
+:toc: left
+:icons: font
+:twoinches: width=144
+// using a role requires adding a corresponding rule to the CSS
+:full-width: role=full-width
+:half-width: role=half-width
+:half-size: role=half-size
+:thumbnail: width=60
+ifdef::backend-pdf[]
+:twoinches: pdfwidth=2in
+// NOTE use pdfwidth=100vw to make the image stretch edge to edge
+:full-width: pdfwidth=100%
+:half-width: pdf{half-width}
+// NOTE scale is not yet supported by the PDF converter
+:half-size: pdf{half-width}
+:thumbnail: pdfwidth=20mm
+endif::[]
+ifdef::backend-docbook5[]
+:twoinches: scaledwidth=2in
+:full-width: scaledwidth=100%
+:half-width: scaled{half-width}
+:half-size: scale=50
+:thumbnail: scaledwidth=20mm
+endif::[]
+
+
+== Context
+
+A quiet landing after a takeoff from Saint-Vincent-les-Forts where it ultimately doesn't hold.
+I'm the only one in the group to go ("Always up for a fly, we always learn!").
+Very calm conditions and a light breeze over the Serre Ponçon lake.
+
+== Description of the incident
+
+I decide to work on the box landing (called PTU in French) because I always have a hard time estimating the altitude at which to make the final branch.
+
+.Planned PTU vs realized PTU
+image::serreponcon-ptu.png[{full-width}, "Planned PTU (blue) vs realized PTU (yellow)"]
+
+I lose altitude upwind of the terrain when I see a paraglider approaching in front of me (facing the breeze, in S-turns), but lower.
+He takes an infinite amount of time to come down (maybe he was letting me pass?) so that I find myself at his height.
+
+I decided to launch my initial box plan by extending my branches to pass behind him (I think I am high enough).
+I ended up too short and landed in the lake (5m from the edge, but without a foothold).
+Fortunately, a swimmer pulled me towards the edge, and the breeze gently carried my glider out.
+
+No physical damage (I am not talking about my Syride alas…) but big frustration of having to spend hours drying everything and folding the reserve the next morning (thanks, friends).
+And then big blow to morale imagining how I am going to get rotten by my friends (I am Pelican31 now ;-)
+
+== My analysis
+
+How the hell could I have been so bad?
+The pilot in front has absolutely nothing to do with it, his actions and intentions were clear and healthy.
+I just rushed.
+
+I think I was a victim of this famous "tunnel effect" so often described in incidents.
+I had decided to land in a certain way, and in a certain place, and I stuck to it at all costs, while I had plenty of options (turn in front of him to land on the next beach, very healthy, or cut to aim for the edge of the lake).
+
+A few other remarks:
+
+- Perhaps a little ambitious, the box landing, on such a small landing (but after all, I aim to validate the French "confirmed" pilot license, I have to assume).
+- I had not thought about any plan B or, in any case, analyzed all the options for landing, while having even thought about it, would perhaps have allowed me to implement them in an emergency.
+- I had not anticipated to what extent I would dive once I was at the edge of the beach (I finally found myself on the lee side of the beach).
+
+== What I learned
+
+- That it is good to analyze all possible landings during your quiet loss of altitude.
+- That a planned landing is not immutable and that safety must take precedence over priorities or politeness.
+- That in good weather a paraglider and a reserve dry quickly, but that lines and harnesses take longer.
+- That solidarity between paragliders plays a full role in these great moments of solitude.
+- That friends are not so mocking after all, because they saw that I was pissed off.
+
+:numbered!:
+== Note
+
+WARNING: Do not hesitate to share so that it can be useful to as many people as possible.
+
+(French version: link:retex-serreponcon2024.html[here])
